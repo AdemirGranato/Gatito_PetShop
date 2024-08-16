@@ -14,6 +14,7 @@ Objetivos do Projeto:
 + Faturamento em relação ao tempo;
 + Filtros por: Data da compra; Marca e Produto.
 
-![Captura de tela 2024-08-16 193835](https://github.com/user-attachments/assets/f183e2c0-f58d-4ca2-b377-c1138fa53919)
+![Captura de tela 2024-08-16 201045](https://github.com/user-attachments/assets/de04c440-5cb5-4de4-af71-7cfd43f7ca72)
+
 
 <strong>DashBoard - Gatito PetShop</strong>
